@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: Gokulavasan Portfolio
-Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Gokulavasan Portfolio
+URL: https://gokulavasan-s.github.io/Gokulavasan_Landingpage/
